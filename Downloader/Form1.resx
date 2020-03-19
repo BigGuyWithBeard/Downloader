@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="txtFiles.Text" xml:space="preserve">
+    <value>https://www.raspberrypi.org/magpi-issues/MagPi77.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi76.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi75.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi74.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi73.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi72.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi71.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi70.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi69.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi68.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi67.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi66.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi65.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi64.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi63.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi62.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi61.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi60.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi59.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi58.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi57.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi56.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi55.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi54.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi53.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi52.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi51.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi50.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi49.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi48.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi47.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi46.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi45.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi44.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi43.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi42.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi41.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi40.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi39.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi38.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi37.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi36.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi35.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi34.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi33.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi32.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi31.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi30.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi29.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi28.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi27.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi26.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi25.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi24.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi23.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi22.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi21.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi20.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi19.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi18.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi17.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi16.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi15.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi14.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi13.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi12.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi11.pdf
+https://www.raspberrypi.org/magpi-issues/MagPi10.pdf
+
+</value>
+  </data>
+</root>
